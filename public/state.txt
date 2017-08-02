@@ -1,55 +1,53 @@
 [
           {
-            key:"0",
-            status:"Alive",
-            date:"2 August 2017",
-            time:"10:39 am",
+            "key":"0",
+            "status":"Alive",
+            "date":"2 August 2017",
+            "time":"10:39 am",
           },
           {
-            key:"1",
-            status:"Sad",
-            date:"1 August 2017",
-            time:"1:12 am",
+            "key":"1",
+            "status":"Sad",
+            "date":"1 August 2017",
+            "time":"1:12 am",
           },
           {
-            key:"2",
-            status:"In Class",
-            date:"30 July 2017",
-            time:"9:23 pm",
+            "key":"2",
+            "status":"In Class",
+            "date":"30 July 2017",
+            "time":"9:23 pm",
           },
           {
-            key:"3",
-            status:"Travelling",
-            date:"2 August 2017",
-            time:"6:50 pm",
+            "key":"3",
+            "status":"Travelling",
+            "date":"2 August 2017",
+            "time":"6:50 pm",
           },
           {
-            key:"4",
+            "key":"4",
             
-            status:"in My Room",
-            date:"31 July 2017",
-            time:"11:09 pm",
+            "status":"in My Room",
+            "date":"31 July 2017",
+            "time":"11:09 pm",
           },
           {
-            key:"5",
-            status:"Working",
-            date:"28 July 2017",
-            time:"6:01 am",
+            "key":"5",
+            "status":"Working",
+            "date":"28 July 2017",
+            "time":"6:01 am",
           },
           {
-            key:"6",
+            "key":"6",
             
-            status:"Music Club",
-            date:"2 August 2017",
-            time:"7:34 pm",
+            "status":"Music Club",
+            "date":"2 August 2017",
+            "time":"7:34 pm",
           },
           {
-            key:"7",
+            "key":"7",
             
-            status:"Chilling",
-            date:"2 August 2017",
-            time:"7:34 pm",
-          },
-          
-
+            "status":"Chilling",
+            "date":"2 August 2017",
+            "time":"7:34 pm",
+          }
         ]
