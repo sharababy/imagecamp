@@ -34,7 +34,7 @@
             "key":"5",
             "status":"Working",
             "date":"28 July 2017",
-            "time":"6:01 am",
+            "time":"6:01 am"
           },
           {
             "key":"6",
